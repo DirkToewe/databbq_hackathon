@@ -1,2 +1,2 @@
 # databbq_hackathon
-DataViz Rhein Main DataBBQ Mini-Hackathon for OpenPetition.de
+The contribution to my team's efforts during the DataViz Rhein Main DataBBQ Mini-Hackathon for OpenPetition.de
